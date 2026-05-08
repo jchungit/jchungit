@@ -13,7 +13,7 @@
 ## 🛠️ What I'm Working On
 
 
-- 🏠 **Home Lab** — Wazuh SIEM (Security Information and Event Management) on Ubuntu VM, Active Directory Domain Controller, Kali Linux attack/defense scenarios
+- 🏠 **Home Lab** — Wazuh SIEM (Security Information and Event Management) on Ubuntu VM, Active Directory Domain Controller, Kali Linux attack/defense scenarios, Home Network Rebuild
 - 📚 **Certifications** — CompTIA A+ (Core 1 & Core 2), CompTIA Security+ (SY0-701)
 - 💼 **Seeking** — IT Help Desk, Desktop Support, or Junior SOC Analyst roles in Orange County, CA
 
@@ -40,13 +40,14 @@
 
 
 | Project | Description |
-|---|---|
-| [🛡️ Home Lab — Wazuh SIEM](https://github.com/jchungit/home-lab-siem-wazuh) | Deployed full Wazuh SIEM stack on Ubuntu VM, monitored Windows & Linux endpoints |
-| [💻 Active Directory Home Lab](https://github.com/jchungit/active-directory-home-lab) | Built Windows Server 2022 Domain Controller, practiced AD administration & security |
-| [📱 Metasploit Android Lab](https://github.com/jchungit/metasploit-android-lab) | Simulated Android device compromise using msfvenom & Meterpreter for defensive learning |
-| [📝 CompTIA Exam Prep App](https://github.com/jchungit/comptia-prep) | PWA with 271 practice questions for A+ Core 1, Core 2, and Security+ |
-| [🖥️ Bash Mastery](https://github.com/jchungit/bash-mastery) | Interactive 30-lesson Bash scripting course from beginner to advanced |
-| [🌐 Networking Notes](https://github.com/jchungit/networking-notes) | SMB file sharing setup, networking cheat sheets, protocol references |
+|---------|-------------|
+| 🔵 [Home Lab — Wazuh SIEM](...) | Deployed full Wazuh SIEM stack on Ubuntu VM, monitored Windows & Linux endpoints |
+| 🖥️ [Active Directory Home Lab](...) | Built Windows Server 2022 Domain Controller, practiced AD administration & security |
+| 📱 [Metasploit Android Lab](...) | Simulated Android device compromise using msfvenom & Meterpreter for defensive learning |
+| 📋 [CompTIA Exam Prep App](...) | PWA with 271 practice questions for A+ Core 1, Core 2, and Security+ |
+| 💻 [Bash Mastery](...) | Interactive 30-lesson Bash scripting course from beginner to advanced |
+| 🌐 [Networking Notes](...) | SMB file sharing setup, networking cheat sheets, protocol references |
+| 🏠 [Home Network Rebuild](https://github.com/jchungit/home-network-rebuild) | Diagnosed AT&T BGW320 internal modem fault, deployed Ubiquiti UCG-Fiber + U7 Pro, configured VLAN segmentation for Personal, Homelab & IoT |
 
 
 ---
