@@ -48,6 +48,7 @@
 | 💻 [Bash Mastery](...) | Interactive 30-lesson Bash scripting course from beginner to advanced |
 | 🌐 [Networking Notes](...) | SMB file sharing setup, networking cheat sheets, protocol references |
 | 🏠 [Home Network Rebuild](https://github.com/jchungit/home-network-rebuild) | Diagnosed AT&T BGW320 internal modem fault, deployed Ubiquiti UCG-Fiber + U7 Pro, configured VLAN segmentation for Personal, Homelab & IoT |
+| 🎬 Jellyfin Media Server | Deployed self-hosted Jellyfin on home desktop; configured multi-device client access and integrated with home network VLAN setup |
 
 
 ---
